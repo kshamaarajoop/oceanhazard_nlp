@@ -1,0 +1,42 @@
+# Model files
+models/
+*.pkl
+*.h5
+*.joblib
+*.pt
+*.pth
+
+# Data files
+processed_data/
+raw_data/
+*.csv
+*.json
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environment
+myenv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
