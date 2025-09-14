@@ -1,0 +1,200 @@
+id,content_text,clean_text,user_role,hazard_type,sentiment,legitimacy,relevance,urgency
+1a2b3c4d-5e6f-7890-abcd-ef1234567890,"Water levels rising rapidly near the coastline, flooding Main Street!",water levels rising rapidly coastline flooding main street,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1,high
+2b3c4d5e-6f78-9012-bcde-f23456789012,Just a beautiful sunny day at the beach!,beautiful sunny day beach,PUBLIC,OTHER,positive,0,0,low
+3c4d5e6f-7890-1234-cdef-345678901234,URGENT: Possible tsunami waves spotted approaching shore!,urgent possible tsunami waves spotted approaching shore,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+4d5e6f7g-8901-2345-def0-456789012345,Waves look big but nothing serious going on here,waves look big nothing serious going,PUBLIC,HIGH_WAVES,neutral,0,0,low
+5e6f7g8h-9012-3456-ef01-567890123456,Verified swell surge warning - 8ft waves incoming!,verified swell surge warning 8ft waves incoming,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1,high
+6f7g8h9i-0123-4567-f012-678901234567,Beach volleyball tournament was amazing today,beach volleyball tournament amazing today,PUBLIC,OTHER,positive,0,0,low
+7g8h9i0j-1234-5678-0123-789012345678,Abnormally low tide exposing reef areas - unusual conditions,abnormally low tide exposing reef areas unusual conditions,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1,medium
+8h9i0j1k-2345-6789-1234-890123456789,Water receding dramatically from shoreline! Need help!,water receding dramatically shoreline need help,PUBLIC,TSUNAMI_SIGHTING,negative,1,1,high
+9i0j1k2l-3456-7890-2345-901234567890,Great surfing conditions this morning,great surfing conditions morning,PUBLIC,HIGH_WAVES,positive,0,0,low
+0j1k2l3m-4567-8901-3456-012345678901,Storm surge flooding coastal road - emergency response needed,storm surge flooding coastal road emergency response needed,OFFICIAL,COASTAL_FLOODING,negative,1,1,high
+1k2l3m4n-5678-9012-4567-123456789012,Massive waves crashing over seawall downtown,massive waves crashing seawall downtown,PUBLIC,HIGH_WAVES,negative,1,1,high
+2l3m4n5o-6789-0123-5678-234567890123,Had fish and chips by the pier yesterday,fish chips pier yesterday,PUBLIC,OTHER,positive,0,0,low
+3m4n5o6p-7890-1234-6789-345678901234,Confirmed: Unusual tidal patterns observed at monitoring station,confirmed unusual tidal patterns observed monitoring station,OFFICIAL,UNUSUAL_TIDE,neutral,1,1,medium
+4n5o6p7q-8901-2345-7890-456789012345,"Beach cleanup went well, collected 50 bags of trash",beach cleanup went well collected 50 bags trash,PUBLIC,OTHER,positive,0,0,low
+5o6p7q8r-9012-3456-8901-567890123456,ALERT: Large swell surge approaching marina area,alert large swell surge approaching marina area,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1,high
+6p7q8r9s-0123-4567-9012-678901234567,Water is rushing inland very fast near pier,water rushing inland fast near pier,PUBLIC,COASTAL_FLOODING,negative,1,1,high
+7q8r9s0t-1234-5678-0123-789012345678,Beautiful sunset photos from the beach today,beautiful sunset photos beach today,PUBLIC,OTHER,positive,0,0,low
+8r9s0t1u-2345-6789-1234-890123456789,Waves estimated 12-15 feet hitting breakwater,waves estimated 12-15 feet hitting breakwater,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1,medium
+9s0t1u2v-3456-7890-2345-901234567890,Sea level dropping rapidly - very concerning,sea level dropping rapidly concerning,PUBLIC,UNUSUAL_TIDE,negative,1,1,medium
+0t1u2v3w-4567-8901-3456-012345678901,Official tsunami warning issued for coastal areas,official tsunami warning issued coastal areas,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+1u2v3w4x-5678-9012-4567-123456789012,Kids building sandcastles having fun,kids building sandcastles having fun,PUBLIC,OTHER,positive,0,0,low
+2v3w4x5y-6789-0123-5678-234567890123,Dangerous rip current observed near south beach,dangerous rip current observed south beach,VERIFIED_VOLUNTEER,OTHER,negative,1,1,medium
+3w4x5y6z-7890-1234-6789-345678901234,Storm surge flooding parking lot at beach access,storm surge flooding parking lot beach access,PUBLIC,COASTAL_FLOODING,negative,1,1,medium
+4x5y6z7a-8901-2345-7890-456789012345,Perfect weather for a beach picnic,perfect weather beach picnic,PUBLIC,OTHER,positive,0,0,low
+5y6z7a8b-9012-3456-8901-567890123456,Verified: 6ft swell surge impacting harbor,verified 6ft swell surge impacting harbor,OFFICIAL,SWELL_SURGE,negative,1,1,medium
+6z7a8b9c-0123-4567-9012-678901234567,Huge waves destroying beachfront properties!,huge waves destroying beachfront properties,PUBLIC,HIGH_WAVES,negative,1,1,high
+7a8b9c0d-1234-5678-0123-789012345678,Ice cream truck playing music on boardwalk,ice cream truck playing music boardwalk,PUBLIC,OTHER,positive,0,0,low
+8b9c0d1e-2345-6789-1234-890123456789,Abnormal tide recession - sea floor visible,abnormal tide recession sea floor visible,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1,medium
+9c0d1e2f-3456-7890-2345-901234567890,Possible tsunami - water rushing back out to sea,possible tsunami water rushing back sea,PUBLIC,TSUNAMI_SIGHTING,negative,1,1,high
+0d1e2f3g-4567-8901-3456-012345678901,Coastal road completely underwater from flooding,coastal road completely underwater flooding,OFFICIAL,COASTAL_FLOODING,negative,1,1,high
+1e2f3g4h-5678-9012-4567-123456789012,Seagulls fighting over french fries,seagulls fighting french fries,PUBLIC,OTHER,neutral,0,0,low
+2f3g4h5i-6789-0123-5678-234567890123,20ft waves reported at offshore buoy station,20ft waves reported offshore buoy station,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1,high
+3g4h5i6j-7890-1234-6789-345678901234,Dangerous swell conditions - boats taking damage,dangerous swell conditions boats taking damage,PUBLIC,SWELL_SURGE,negative,1,1,medium
+4h5i6j7k-8901-2345-7890-456789012345,Lovely day for swimming with the family,lovely day swimming family,PUBLIC,OTHER,positive,0,0,low
+5i6j7k8l-9012-3456-8901-567890123456,King tide flooding streets three blocks inland,king tide flooding streets three blocks inland,OFFICIAL,UNUSUAL_TIDE,negative,1,1,high
+6j7k8l9m-0123-4567-9012-678901234567,Beach volleyball nets set up for tournament,beach volleyball nets set tournament,PUBLIC,OTHER,positive,0,0,low
+7k8l9m0n-1234-5678-0123-789012345678,EMERGENCY: Tsunami waves visible on horizon,emergency tsunami waves visible horizon,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1,high
+8l9m0n1o-2345-6789-1234-890123456789,Coastal flooding reaching first floor of buildings,coastal flooding reaching first floor buildings,PUBLIC,COASTAL_FLOODING,negative,1,1,high
+9m0n1o2p-3456-7890-2345-901234567890,Dolphin pod spotted near the pier,dolphin pod spotted near pier,PUBLIC,OTHER,positive,0,0,low
+0n1o2p3q-4567-8901-3456-012345678901,Massive wave sets pounding the coastline,massive wave sets pounding coastline,OFFICIAL,HIGH_WAVES,negative,1,1,high
+1o2p3q4r-5678-9012-4567-123456789012,Storm surge 4ft above normal high tide,storm surge 4ft above normal high tide,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1,medium
+2p3q4r5s-6789-0123-5678-234567890123,Beach cafe serving great coffee,beach cafe serving great coffee,PUBLIC,OTHER,positive,0,0,low
+3q4r5s6t-7890-1234-6789-345678901234,Extreme low tide - never seen it this low,extreme low tide never seen this low,PUBLIC,UNUSUAL_TIDE,negative,1,1,medium
+4r5s6t7u-8901-2345-7890-456789012345,Suspicious wave patterns - possible tsunami precursor,suspicious wave patterns possible tsunami precursor,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1,medium
+5s6t7u8v-9012-3456-8901-567890123456,Water rushing through downtown streets,water rushing downtown streets,PUBLIC,COASTAL_FLOODING,negative,1,1,high
+6t7u8v9w-0123-4567-9012-678901234567,Perfect day for kite flying on beach,perfect day kite flying beach,PUBLIC,OTHER,positive,0,0,low
+7u8v9w0x-1234-5678-0123-789012345678,15ft waves breaking over rock barrier,15ft waves breaking rock barrier,OFFICIAL,HIGH_WAVES,negative,1,1,medium
+8v9w0x1y-2345-6789-1234-890123456789,Dangerous swell surge flooding marina,dangerous swell surge flooding marina,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1,medium
+9w0x1y2z-3456-7890-2345-901234567890,Found some nice shells while walking,found nice shells walking,PUBLIC,OTHER,positive,0,0,low
+0x1y2z3a-4567-8901-3456-012345678901,Tide gauge showing record low levels,tide gauge showing record low levels,PUBLIC,UNUSUAL_TIDE,negative,1,1,medium
+1y2z3a4b-5678-9012-4567-123456789012,Earthquake felt - watching for tsunami,earthquake felt watching tsunami,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+2z3a4b5c-6789-0123-5678-234567890123,Storm flooding reached the boardwalk,storm flooding reached boardwalk,PUBLIC,COASTAL_FLOODING,negative,1,1,medium
+3a4b5c6d-7890-1234-6789-345678901234,Beach bonfire was so much fun last night,beach bonfire much fun last night,PUBLIC,OTHER,positive,0,0,low
+4b5c6d7e-8901-2345-7890-456789012345,Confirmed 18ft waves at measurement station,confirmed 18ft waves measurement station,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1,medium
+5c6d7e8f-9012-3456-8901-567890123456,Swell surge overtopping seawall protection,swell surge overtopping seawall protection,PUBLIC,SWELL_SURGE,negative,1,1,medium
+6d7e8f9g-0123-4567-9012-678901234567,Fisherman caught a huge tuna today,fisherman caught huge tuna today,PUBLIC,OTHER,positive,0,0,low
+7e8f9g0h-1234-5678-0123-789012345678,Spring tide higher than predicted levels,spring tide higher predicted levels,OFFICIAL,UNUSUAL_TIDE,negative,1,1,medium
+8f9g0h1i-2345-6789-1234-890123456789,Water pulled back 200 yards from normal,water pulled back 200 yards normal,PUBLIC,TSUNAMI_SIGHTING,negative,1,1,high
+9g0h1i2j-3456-7890-2345-901234567890,Flooding covering coastal highway completely,flooding covering coastal highway completely,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1,high
+0h1i2j3k-4567-8901-3456-012345678901,Surfers enjoying the big wave conditions,surfers enjoying big wave conditions,PUBLIC,HIGH_WAVES,positive,0,0,low
+1i2j3k4l-5678-9012-4567-123456789012,Jet ski rental place is busy today,jet ski rental place busy today,PUBLIC,OTHER,positive,0,0,low
+2j3k4l5m-6789-0123-5678-234567890123,Major swell event causing harbor damage,major swell event causing harbor damage,OFFICIAL,SWELL_SURGE,negative,1,1,high
+3k4l5m6n-7890-1234-6789-345678901234,Abnormal water behavior - very concerning,abnormal water behavior concerning,PUBLIC,UNUSUAL_TIDE,negative,1,1,medium
+4l5m6n7o-8901-2345-7890-456789012345,URGENT: Tsunami warning sirens activated,urgent tsunami warning sirens activated,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1,high
+5m6n7o8p-9012-3456-8901-567890123456,Storm surge flooding evacuation routes,storm surge flooding evacuation routes,PUBLIC,COASTAL_FLOODING,negative,1,1,high
+6n7o8p9q-0123-4567-9012-678901234567,Beach wedding ceremony was beautiful,beach wedding ceremony beautiful,PUBLIC,OTHER,positive,0,0,low
+7o8p9q0r-1234-5678-0123-789012345678,25ft waves recorded at deepwater buoy,25ft waves recorded deepwater buoy,OFFICIAL,HIGH_WAVES,negative,1,1,high
+8p9q0r1s-2345-6789-1234-890123456789,Massive swell surge destroying pier structures,massive swell surge destroying pier structures,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1,high
+9q0r1s2t-3456-7890-2345-901234567890,Sandcastle building competition tomorrow,sandcastle building competition tomorrow,PUBLIC,OTHER,positive,0,0,low
+0r1s2t3u-4567-8901-3456-012345678901,Lowest tide in 50 years recorded,lowest tide 50 years recorded,PUBLIC,UNUSUAL_TIDE,negative,1,1,medium
+1s2t3u4v-5678-9012-4567-123456789012,Multiple tsunami waves confirmed approaching,multiple tsunami waves confirmed approaching,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+2t3u4v5w-6789-0123-5678-234567890123,Water level 3ft above street curb,water level 3ft above street curb,PUBLIC,COASTAL_FLOODING,negative,1,1,medium
+3u4v5w6x-7890-1234-6789-345678901234,Pelican feeding frenzy near fishing boats,pelican feeding frenzy near fishing boats,PUBLIC,OTHER,positive,0,0,low
+4v5w6x7y-8901-2345-7890-456789012345,Verified dangerous wave conditions at breakwater,verified dangerous wave conditions breakwater,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1,medium
+5w6x7y8z-9012-3456-8901-567890123456,Swell surge flooding boat launch area,swell surge flooding boat launch area,PUBLIC,SWELL_SURGE,negative,1,1,medium
+6x7y8z9a-0123-4567-9012-678901234567,Beach cleanup volunteers needed Saturday,beach cleanup volunteers needed saturday,PUBLIC,OTHER,neutral,0,0,low
+7y8z9a0b-1234-5678-0123-789012345678,Tidal bore phenomenon observed upstream,tidal bore phenomenon observed upstream,OFFICIAL,UNUSUAL_TIDE,negative,1,1,medium
+8z9a0b1c-2345-6789-1234-890123456789,Ground shaking - checking ocean for waves,ground shaking checking ocean waves,PUBLIC,TSUNAMI_SIGHTING,negative,1,1,medium
+9a0b1c2d-3456-7890-2345-901234567890,Coastal highway underwater for half mile,coastal highway underwater half mile,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1,high
+0b1c2d3e-4567-8901-3456-012345678901,Morning jog along the beach was refreshing,morning jog beach refreshing,PUBLIC,OTHER,positive,0,0,low
+1c2d3e4f-5678-9012-4567-123456789012,30ft waves destroying waterfront buildings,30ft waves destroying waterfront buildings,OFFICIAL,HIGH_WAVES,negative,1,1,high
+2d3e4f5g-6789-0123-5678-234567890123,Catastrophic swell surge event in progress,catastrophic swell surge event progress,PUBLIC,SWELL_SURGE,negative,1,1,high
+3e4f5g6h-7890-1234-6789-345678901234,Beach bar has happy hour specials,beach bar happy hour specials,PUBLIC,OTHER,positive,0,0,low
+4f5g6h7i-8901-2345-7890-456789012345,Extreme negative tide exposing seafloor,extreme negative tide exposing seafloor,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1,medium
+5g6h7i8j-9012-3456-8901-567890123456,Evacuation ordered - tsunami waves incoming,evacuation ordered tsunami waves incoming,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+6h7i8j9k-0123-4567-9012-678901234567,Flash flooding from storm surge downtown,flash flooding storm surge downtown,PUBLIC,COASTAL_FLOODING,negative,1,1,high
+7i8j9k0l-1234-5678-0123-789012345678,Lighthouse keeper reported normal conditions,lighthouse keeper reported normal conditions,PUBLIC,OTHER,neutral,0,0,low
+8j9k0l1m-2345-6789-1234-890123456789,Breaking waves 35ft at outer marker,breaking waves 35ft outer marker,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1,high
+9k0l1m2n-3456-7890-2345-901234567890,Emergency swell surge breaching all defenses,emergency swell surge breaching defenses,PUBLIC,SWELL_SURGE,negative,1,1,high
+0l1m2n3o-4567-8901-3456-012345678901,Beach access road closed due to construction,beach access road closed construction,PUBLIC,OTHER,neutral,0,0,low
+1m2n3o4p-5678-9012-4567-123456789012,Super low tide revealing shipwreck,super low tide revealing shipwreck,OFFICIAL,UNUSUAL_TIDE,negative,1,1,medium
+2n3o4p5q-6789-0123-5678-234567890123,First tsunami wave just hit the shore,first tsunami wave hit shore,PUBLIC,TSUNAMI_SIGHTING,negative,1,1,high
+3o4p5q6r-7890-1234-6789-345678901234,Storm surge flooding entire beachfront district,storm surge flooding entire beachfront district,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1,high
+4p5q6r7s-8901-2345-7890-456789012345,Beach party tonight starts at sunset,beach party tonight starts sunset,PUBLIC,OTHER,positive,0,0,low
+5q6r7s8t-9012-3456-8901-567890123456,Record-breaking wave heights measured today,record-breaking wave heights measured today,OFFICIAL,HIGH_WAVES,negative,1,1,high
+6r7s8t9u-0123-4567-9012-678901234567,Critical swell surge threatening infrastructure,critical swell surge threatening infrastructure,PUBLIC,SWELL_SURGE,negative,1,1,high
+7s8t9u0v-1234-5678-0123-789012345678,Sea turtle nesting season has begun,sea turtle nesting season begun,PUBLIC,OTHER,positive,0,0,low
+8t9u0v1w-2345-6789-1234-890123456789,Unprecedented tidal anomaly requiring investigation,unprecedented tidal anomaly requiring investigation,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1,medium
+9u0v1w2x-3456-7890-2345-901234567890,Multiple tsunami waves confirmed by satellite,multiple tsunami waves confirmed satellite,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1,high
+id,content_text,user_role,hazard_type,sentiment,legitimacy,relevance
+1a2b3c4d-5e6f-7890-abcd-ef1234567890,"Water levels rising rapidly near the coastline, flooding Main Street",VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1
+2b3c4d5e-6f78-9012-bcde-f23456789012,Just a beautiful sunny day at the beach!,PUBLIC,OTHER,positive,0,0
+3c4d5e6f-7890-1234-cdef-345678901234,URGENT: Possible tsunami waves spotted approaching shore!,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
+4d5e6f7g-8901-2345-def0-456789012345,Waves look big but nothing serious going on here,PUBLIC,HIGH_WAVES,neutral,0,0
+5e6f7g8h-9012-3456-ef01-567890123456,Verified swell surge warning - 8ft waves incoming!,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1
+6f7g8h9i-0123-4567-f012-678901234567,Beach volleyball tournament was amazing today,PUBLIC,OTHER,positive,0,0
+7g8h9i0j-1234-5678-0123-789012345678,Abnormally low tide exposing reef areas - unusual conditions,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1
+8h9i0j1k-2345-6789-1234-890123456789,Water receding dramatically from shoreline! Need help!,PUBLIC,TSUNAMI_SIGHTING,negative,1,1
+9i0j1k2l-3456-7890-2345-901234567890,Great surfing conditions this morning,PUBLIC,HIGH_WAVES,positive,0,0
+0j1k2l3m-4567-8901-3456-012345678901,Storm surge flooding coastal road - emergency response needed,OFFICIAL,COASTAL_FLOODING,negative,1,1
+1k2l3m4n-5678-9012-4567-123456789012,Massive waves crashing over seawall downtown,PUBLIC,HIGH_WAVES,negative,1,1
+2l3m4n5o-6789-0123-5678-234567890123,Had fish and chips by the pier yesterday,PUBLIC,OTHER,positive,0,0
+3m4n5o6p-7890-1234-6789-345678901234,Confirmed: Unusual tidal patterns observed at monitoring station,OFFICIAL,UNUSUAL_TIDE,neutral,1,1
+4n5o6p7q-8901-2345-7890-456789012345,"Beach cleanup went well, collected 50 bags of trash",PUBLIC,OTHER,positive,0,0
+5o6p7q8r-9012-3456-8901-567890123456,ALERT: Large swell surge approaching marina area,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1
+6p7q8r9s-0123-4567-9012-678901234567,Water is rushing inland very fast near pier,PUBLIC,COASTAL_FLOODING,negative,1,1
+7q8r9s0t-1234-5678-0123-789012345678,Beautiful sunset photos from the beach today,PUBLIC,OTHER,positive,0,0
+8r9s0t1u-2345-6789-1234-890123456789,Waves estimated 12-15 feet hitting breakwater,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1
+9s0t1u2v-3456-7890-2345-901234567890,Sea level dropping rapidly - very concerning,PUBLIC,UNUSUAL_TIDE,negative,1,1
+0t1u2v3w-4567-8901-3456-012345678901,Official tsunami warning issued for coastal areas,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
+1u2v3w4x-5678-9012-4567-123456789012,Kids building sandcastles having fun,PUBLIC,OTHER,positive,0,0
+2v3w4x5y-6789-0123-5678-234567890123,Dangerous rip current observed near south beach,VERIFIED_VOLUNTEER,OTHER,negative,1,1
+3w4x5y6z-7890-1234-6789-345678901234,Storm surge flooding parking lot at beach access,PUBLIC,COASTAL_FLOODING,negative,1,1
+4x5y6z7a-8901-2345-7890-456789012345,Perfect weather for a beach picnic,PUBLIC,OTHER,positive,0,0
+5y6z7a8b-9012-3456-8901-567890123456,Verified: 6ft swell surge impacting harbor,OFFICIAL,SWELL_SURGE,negative,1,1
+6z7a8b9c-0123-4567-9012-678901234567,Huge waves destroying beachfront properties!,PUBLIC,HIGH_WAVES,negative,1,1
+7a8b9c0d-1234-5678-0123-789012345678,Ice cream truck playing music on boardwalk,PUBLIC,OTHER,positive,0,0
+8b9c0d1e-2345-6789-1234-890123456789,Abnormal tide recession - sea floor visible,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1
+9c0d1e2f-3456-7890-2345-901234567890,Possible tsunami - water rushing back out to sea,PUBLIC,TSUNAMI_SIGHTING,negative,1,1
+0d1e2f3g-4567-8901-3456-012345678901,Coastal road completely underwater from flooding,OFFICIAL,COASTAL_FLOODING,negative,1,1
+1e2f3g4h-5678-9012-4567-123456789012,Seagulls fighting over french fries,PUBLIC,OTHER,neutral,0,0
+2f3g4h5i-6789-0123-5678-234567890123,20ft waves reported at offshore buoy station,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1
+3g4h5i6j-7890-1234-6789-345678901234,Dangerous swell conditions - boats taking damage,PUBLIC,SWELL_SURGE,negative,1,1
+4h5i6j7k-8901-2345-7890-456789012345,Lovely day for swimming with the family,PUBLIC,OTHER,positive,0,0
+5i6j7k8l-9012-3456-8901-567890123456,King tide flooding streets three blocks inland,OFFICIAL,UNUSUAL_TIDE,negative,1,1
+6j7k8l9m-0123-4567-9012-678901234567,Beach volleyball nets set up for tournament,PUBLIC,OTHER,positive,0,0
+7k8l9m0n-1234-5678-0123-789012345678,EMERGENCY: Tsunami waves visible on horizon,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1
+8l9m0n1o-2345-6789-1234-890123456789,Coastal flooding reaching first floor of buildings,PUBLIC,COASTAL_FLOODING,negative,1,1
+9m0n1o2p-3456-7890-2345-901234567890,Dolphin pod spotted near the pier,PUBLIC,OTHER,positive,0,0
+0n1o2p3q-4567-8901-3456-012345678901,Massive wave sets pounding the coastline,OFFICIAL,HIGH_WAVES,negative,1,1
+1o2p3q4r-5678-9012-4567-123456789012,Storm surge 4ft above normal high tide,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1
+2p3q4r5s-6789-0123-5678-234567890123,Beach cafe serving great coffee,PUBLIC,OTHER,positive,0,0
+3q4r5s6t-7890-1234-6789-345678901234,Extreme low tide - never seen it this low,PUBLIC,UNUSUAL_TIDE,negative,1,1
+4r5s6t7u-8901-2345-7890-456789012345,Suspicious wave patterns - possible tsunami precursor,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1
+5s6t7u8v-9012-3456-8901-567890123456,Water rushing through downtown streets,PUBLIC,COASTAL_FLOODING,negative,1,1
+6t7u8v9w-0123-4567-9012-678901234567,Perfect day for kite flying on beach,PUBLIC,OTHER,positive,0,0
+7u8v9w0x-1234-5678-0123-789012345678,15ft waves breaking over rock barrier,OFFICIAL,HIGH_WAVES,negative,1,1
+8v9w0x1y-2345-6789-1234-890123456789,Dangerous swell surge flooding marina,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1
+9w0x1y2z-3456-7890-2345-901234567890,Found some nice shells while walking,PUBLIC,OTHER,positive,0,0
+0x1y2z3a-4567-8901-3456-012345678901,Tide gauge showing record low levels,PUBLIC,UNUSUAL_TIDE,negative,1,1
+1y2z3a4b-5678-9012-4567-123456789012,Earthquake felt - watching for tsunami,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
+2z3a4b5c-6789-0123-5678-234567890123,Storm flooding reached the boardwalk,PUBLIC,COASTAL_FLOODING,negative,1,1
+3a4b5c6d-7890-1234-6789-345678901234,Beach bonfire was so much fun last night,PUBLIC,OTHER,positive,0,0
+4b5c6d7e-8901-2345-7890-456789012345,Confirmed 18ft waves at measurement station,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1
+5c6d7e8f-9012-3456-8901-567890123456,Swell surge overtopping seawall protection,PUBLIC,SWELL_SURGE,negative,1,1
+6d7e8f9g-0123-4567-9012-678901234567,Fisherman caught a huge tuna today,PUBLIC,OTHER,positive,0,0
+7e8f9g0h-1234-5678-0123-789012345678,Spring tide higher than predicted levels,OFFICIAL,UNUSUAL_TIDE,negative,1,1
+8f9g0h1i-2345-6789-1234-890123456789,Water pulled back 200 yards from normal,PUBLIC,TSUNAMI_SIGHTING,negative,1,1
+9g0h1i2j-3456-7890-2345-901234567890,Flooding covering coastal highway completely,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1
+0h1i2j3k-4567-8901-3456-012345678901,Surfers enjoying the big wave conditions,PUBLIC,HIGH_WAVES,positive,0,0
+1i2j3k4l-5678-9012-4567-123456789012,Jet ski rental place is busy today,PUBLIC,OTHER,positive,0,0
+2j3k4l5m-6789-0123-5678-234567890123,Major swell event causing harbor damage,OFFICIAL,SWELL_SURGE,negative,1,1
+3k4l5m6n-7890-1234-6789-345678901234,Abnormal water behavior - very concerning,PUBLIC,UNUSUAL_TIDE,negative,1,1
+4l5m6n7o-8901-2345-7890-456789012345,URGENT: Tsunami warning sirens activated,VERIFIED_VOLUNTEER,TSUNAMI_SIGHTING,negative,1,1
+5m6n7o8p-9012-3456-8901-567890123456,Storm surge flooding evacuation routes,PUBLIC,COASTAL_FLOODING,negative,1,1
+6n7o8p9q-0123-4567-9012-678901234567,Beach wedding ceremony was beautiful,PUBLIC,OTHER,positive,0,0
+7o8p9q0r-1234-5678-0123-789012345678,25ft waves recorded at deepwater buoy,OFFICIAL,HIGH_WAVES,negative,1,1
+8p9q0r1s-2345-6789-1234-890123456789,Massive swell surge destroying pier structures,VERIFIED_VOLUNTEER,SWELL_SURGE,negative,1,1
+9q0r1s2t-3456-7890-2345-901234567890,Sandcastle building competition tomorrow,PUBLIC,OTHER,positive,0,0
+0r1s2t3u-4567-8901-3456-012345678901,Lowest tide in 50 years recorded,PUBLIC,UNUSUAL_TIDE,negative,1,1
+1s2t3u4v-5678-9012-4567-123456789012,Multiple tsunami waves confirmed approaching,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
+2t3u4v5w-6789-0123-5678-234567890123,Water level 3ft above street curb,PUBLIC,COASTAL_FLOODING,negative,1,1
+3u4v5w6x-7890-1234-6789-345678901234,Pelican feeding frenzy near fishing boats,PUBLIC,OTHER,positive,0,0
+4v5w6x7y-8901-2345-7890-456789012345,Verified dangerous wave conditions at breakwater,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1
+5w6x7y8z-9012-3456-8901-567890123456,Swell surge flooding boat launch area,PUBLIC,SWELL_SURGE,negative,1,1
+6x7y8z9a-0123-4567-9012-678901234567,Beach cleanup volunteers needed Saturday,PUBLIC,OTHER,neutral,0,0
+7y8z9a0b-1234-5678-0123-789012345678,Tidal bore phenomenon observed upstream,OFFICIAL,UNUSUAL_TIDE,negative,1,1
+8z9a0b1c-2345-6789-1234-890123456789,Ground shaking - checking ocean for waves,PUBLIC,TSUNAMI_SIGHTING,negative,1,1
+9a0b1c2d-3456-7890-2345-901234567890,Coastal highway underwater for half mile,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1
+0b1c2d3e-4567-8901-3456-012345678901,Morning jog along the beach was refreshing,PUBLIC,OTHER,positive,0,0
+1c2d3e4f-5678-9012-4567-123456789012,30ft waves destroying waterfront buildings,OFFICIAL,HIGH_WAVES,negative,1,1
+2d3e4f5g-6789-0123-5678-234567890123,Catastrophic swell surge event in progress,PUBLIC,SWELL_SURGE,negative,1,1
+3e4f5g6h-7890-1234-6789-345678901234,Beach bar has happy hour specials,PUBLIC,OTHER,positive,0,0
+4f5g6h7i-8901-2345-7890-456789012345,Extreme negative tide exposing seafloor,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1
+5g6h7i8j-9012-3456-8901-567890123456,Evacuation ordered - tsunami waves incoming,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
+6h7i8j9k-0123-4567-9012-678901234567,Flash flooding from storm surge downtown,PUBLIC,COASTAL_FLOODING,negative,1,1
+7i8j9k0l-1234-5678-0123-789012345678,Lighthouse keeper reported normal conditions,PUBLIC,OTHER,neutral,0,0
+8j9k0l1m-2345-6789-1234-890123456789,Breaking waves 35ft at outer marker,VERIFIED_VOLUNTEER,HIGH_WAVES,negative,1,1
+9k0l1m2n-3456-7890-2345-901234567890,Emergency swell surge breaching all defenses,PUBLIC,SWELL_SURGE,negative,1,1
+0l1m2n3o-4567-8901-3456-012345678901,Beach access road closed due to construction,PUBLIC,OTHER,neutral,0,0
+1m2n3o4p-5678-9012-4567-123456789012,Super low tide revealing shipwreck,OFFICIAL,UNUSUAL_TIDE,negative,1,1
+2n3o4p5q-6789-0123-5678-234567890123,First tsunami wave just hit the shore,PUBLIC,TSUNAMI_SIGHTING,negative,1,1
+3o4p5q6r-7890-1234-6789-345678901234,Storm surge flooding entire beachfront district,VERIFIED_VOLUNTEER,COASTAL_FLOODING,negative,1,1
+4p5q6r7s-8901-2345-7890-456789012345,Beach party tonight starts at sunset,PUBLIC,OTHER,positive,0,0
+5q6r7s8t-9012-3456-8901-567890123456,Record-breaking wave heights measured today,OFFICIAL,HIGH_WAVES,negative,1,1
+6r7s8t9u-0123-4567-9012-678901234567,Critical swell surge threatening infrastructure,PUBLIC,SWELL_SURGE,negative,1,1
+7s8t9u0v-1234-5678-0123-789012345678,Sea turtle nesting season has begun,PUBLIC,OTHER,positive,0,0
+8t9u0v1w-2345-6789-1234-890123456789,Unprecedented tidal anomaly requiring investigation,VERIFIED_VOLUNTEER,UNUSUAL_TIDE,negative,1,1
+9u0v1w2x-3456-7890-2345-901234567890,Multiple tsunami waves confirmed by satellite,OFFICIAL,TSUNAMI_SIGHTING,negative,1,1
