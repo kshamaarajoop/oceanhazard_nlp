@@ -32,26 +32,23 @@ HAZARD_NLP/
 ```
 
 ---
+```
+🚀 Getting Started
 
-## 🚀 Getting Started
-
-### 1. **Environment Setup**
+1. **Environment Setup**
 
 Activate your Python environment (recommended):
 
 ```
-source myenv/bin/activate
+### source myenv/bin/activate
 ```
-
 Install requirements (if needed):
 
 ```
-pip install -r requirements.txt
-```
 
 ---
-
-### 2. **Prepare Your Data**
+```
+2. **Prepare Your Data**
 
 - Raw social post data: `raw_data/social_post.csv`
 - Labeled/processed training data: `processed_data/labeled_data.csv`
@@ -59,7 +56,7 @@ pip install -r requirements.txt
 To process raw data into labeled format:
 
 ```
-python src/data_prep.py
+###python src/data_prep.py
 ```
 
 ---
@@ -69,7 +66,7 @@ python src/data_prep.py
 Train the hybrid hazard classifier using the processed data:
 
 ```
-python src/train.py
+###python src/train.py
 ```
 
 This will use the data in `processed_data/labeled_data.csv` and save model checkpoints in `models/model_checkpoint/`.
@@ -81,7 +78,7 @@ This will use the data in `processed_data/labeled_data.csv` and save model check
 After training, evaluate performance (accuracy, recall, etc):
 
 ```
-python src/evaluate.py
+###python src/evaluate.py
 ```
 
 ---
@@ -97,20 +94,19 @@ uvicorn src.app:app --reload --port 8000
 Test the API POST endpoint (from another terminal):
 
 ```
-python input_test.py
+###python input_test.py
 ```
 
 Or manually with:
 
 ```
-curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json" -d '{"content_text":"Your post text here"}'
+###curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json" -d '{"content_text":"Your post text here"}'
 ```
 
 Or use the interactive docs: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
-
-## 🚦 Troubleshooting
+ 🚦 Troubleshooting
 
 - **Import or package errors**: Check `requirements.txt` and install missing dependencies.
 - **Output not as expected**: Make sure your processed data matches expected schema, and all model files are present in `models/model_checkpoint/`.
@@ -118,17 +114,11 @@ Or use the interactive docs: [http://localhost:8000/docs](http://localhost:8000/
 
 ---
 
-## ✨ Tips
+✨ Tips
 
 - Adjust `max_length`, model type, or hyperparameters in `train.py` and `config.yaml`.
 - To train only on English or Hindi, filter data in `data_prep.py`.
 - For batch inference/testing, use `input_test.py`.
-
----
-
-## 📬 Need help?
-
-Open an Issue or Contact the Maintainer for questions or suggestions!
 
 ---
 
