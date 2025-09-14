@@ -31,9 +31,6 @@ HAZARD_NLP/
 └── requirements.txt (optional)
 ```
 ```
-
----
-```
 🚀 Getting Started
 
 1. **Environment Setup**
