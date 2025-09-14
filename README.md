@@ -1,4 +1,3 @@
-```markdown
 # Hazard_NLP - Training & Inference Guide
 
 This README will walk you through how to train, evaluate, and serve the hazard classification model using the provided source code and data files.
@@ -121,4 +120,3 @@ Or use the interactive docs: [http://localhost:8000/docs](http://localhost:8000/
 
 Happy Training! 🚀
 ```
-```markdown
