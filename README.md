@@ -29,7 +29,7 @@ HAZARD_NLP/
 ├── .gitignore
 └── requirements.txt (optional)
 ```
-```
+
 🚀 Getting Started
 
 1. **Environment Setup**
@@ -52,7 +52,7 @@ transformers torch fastapi uvicorn pandas scikit-learn langdetect pydantic sente
 To process raw data into labeled format:
 
 ```
-###python src/data_prep.py
+python src/data_prep.py
 ```
 
 ---
