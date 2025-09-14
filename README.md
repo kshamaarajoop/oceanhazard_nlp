@@ -30,6 +30,7 @@ HAZARD_NLP/
 ├── .gitignore
 └── requirements.txt (optional)
 ```
+```
 
 ---
 ```
@@ -40,14 +41,13 @@ HAZARD_NLP/
 Activate your Python environment (recommended):
 
 ```
-### source myenv/bin/activate
+source myenv/bin/activate
 ```
 Install requirements (if needed):
 
-```
 
----
-```
+transformers torch fastapi uvicorn pandas scikit-learn langdetect pydantic sentencepiece tiktoken
+
 2. **Prepare Your Data**
 
 - Raw social post data: `raw_data/social_post.csv`
