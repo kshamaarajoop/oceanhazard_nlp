@@ -66,7 +66,7 @@ To process raw data into labeled format:
 Train the hybrid hazard classifier using the processed data:
 
 ```
-###python src/train.py
+python src/train.py
 ```
 
 This will use the data in `processed_data/labeled_data.csv` and save model checkpoints in `models/model_checkpoint/`.
@@ -78,7 +78,7 @@ This will use the data in `processed_data/labeled_data.csv` and save model check
 After training, evaluate performance (accuracy, recall, etc):
 
 ```
-###python src/evaluate.py
+python src/evaluate.py
 ```
 
 ---
@@ -94,13 +94,13 @@ uvicorn src.app:app --reload --port 8000
 Test the API POST endpoint (from another terminal):
 
 ```
-###python input_test.py
+python input_test.py
 ```
 
 Or manually with:
 
 ```
-###curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json" -d '{"content_text":"Your post text here"}'
+curl -X POST "http://localhost:8000/predict" -H "Content-Type: application/json" -d '{"content_text":"Your post text here"}'
 ```
 
 Or use the interactive docs: [http://localhost:8000/docs](http://localhost:8000/docs)
